@@ -14,7 +14,7 @@
 
 <br>
 
-💬 Ask me about
+💬 My CV:file:///C:/Users/hp-Moon/Downloads/Ellana%20Allan%20Shadeed%20CV.pdf
 
 <br>
 
