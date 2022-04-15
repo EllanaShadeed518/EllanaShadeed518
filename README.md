@@ -14,7 +14,7 @@
 
 <br>
 
-💬 My CV:file:///C:/Users/hp-Moon/Downloads/Ellana%20Allan%20Shadeed%20CV.pdf
+💬 My CV:https://docs.google.com/document/d/1DAHP1Uq8zMqO0p4W1RaSZWlE0tlnWr-FNyOsLXVs8cQ/edit?usp=sharing
 
 <br>
 
