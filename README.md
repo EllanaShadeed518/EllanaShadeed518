@@ -39,7 +39,7 @@
 " alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
 " alt="php" width="40" height="40"/> </a>
-  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wizcase.com%2Fdownload%2Fxampp%2F&psig=AOvVaw0zXNKKG5xfUgwzC24leJG3&ust=1675893079278000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjyv7CyhP0CFQAAAAAdAAAAABAI
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://www.wizcase.com/wp-content/uploads/2022/12/XAMPP-logo.png
 " alt="xampp" width="40" height="40"/> </a>
   <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src=https://getcomposer.org/img/logo-composer-transparent4.png
 " alt="composer" width="40" height="40"/> </a>
