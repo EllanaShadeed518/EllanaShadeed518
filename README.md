@@ -41,7 +41,7 @@
 " alt="php" width="40" height="40"/> </a>
   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="![image](https://user-images.githubusercontent.com/95881996/217370779-2b111c92-46b7-4034-be09-c120773a9f41.png)
 " alt="xampp" width="40" height="40"/> </a>
-  <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
+  <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg
 " alt="composer" width="40" height="40"/> </a>
 
 
