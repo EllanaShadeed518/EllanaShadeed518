@@ -39,7 +39,7 @@
 " alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
 " alt="php" width="40" height="40"/> </a>
-  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdwinar.web.id%2Fwp-content%2Fuploads%2F2019%2F06%2Fdownload-1.jpeg&imgrefurl=https%3A%2F%2Fdwinar.web.id%2F2019%2F06%2F21%2Fcara-install-xampp-di-opensuse-15-1%2F&tbnid=QKbjQN4D0V6tuM&vet=10CAQQxiAoA2oXChMIiJeyl7OE_QIVAAAAAB0AAAAAEAY..i&docid=ZBINbpoJ7xEdZM&w=536&h=678&itg=1&q=xampp&ved=0CAQQxiAoA2oXChMIiJeyl7OE_QIVAAAAAB0AAAAAEAY
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://getcomposer.org/img/logo-composer-transparent.png
 " alt="xampp" width="40" height="40"/> </a>
   <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src=https://getcomposer.org/img/logo-composer-transparent4.png
 " alt="composer" width="40" height="40"/> </a>
