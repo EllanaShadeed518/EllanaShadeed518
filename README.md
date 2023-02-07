@@ -10,7 +10,7 @@
 
 <br>
 
-🌱 I’m a Software Engineering student in my 4th year.
+🌱 I’m a Full Stack Develober ,Computer System Engineering fresh graduate.
 
 <br>
 
