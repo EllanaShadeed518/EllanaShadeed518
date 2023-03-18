@@ -14,7 +14,7 @@
 
 <br>
 
-💬 My CV:https://docs.google.com/document/d/1sxrQ-VM2ZCkK3xxTlL4OWvVug1bitYuHs-MIaJJr6wg/edit?usp=sharing
+💬 My CV:https://docs.google.com/document/d/14nL3jbF3Dm99R6GJT4slhKiVR0Odro2THXIYJhlKjtA/edit?usp=sharing
 
 <br>
 
