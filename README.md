@@ -10,11 +10,11 @@
 
 <br>
 
-🌱 I’m a Full Stack Develober ,Computer System Engineering fresh graduate.
+🌱 I’m a Software Engineer ,Computer System Engineering fresh graduate.
 
 <br>
 
-💬 My CV:https://docs.google.com/document/d/14nL3jbF3Dm99R6GJT4slhKiVR0Odro2THXIYJhlKjtA/edit?usp=sharing
+💬 My CV:https://docs.google.com/document/d/1sxrQ-VM2ZCkK3xxTlL4OWvVug1bitYuHs-MIaJJr6wg/edit#
 
 <br>
 
